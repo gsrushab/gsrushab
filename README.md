@@ -1,4 +1,4 @@
-Hey, I'm Rushab 🧑‍💻
+Hey, I'm Rushab
 
 <!---
 gsrushab/gsrushab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
